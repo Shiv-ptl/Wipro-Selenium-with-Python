@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.1 (Python 3.14.0 on win32)" generated="2026-02-19T13:29:09.953624" rpa="false" schemaversion="5">
+<suite id="s1" name="Addtocart" source="C:\Users\LENOVO\PycharmProjects\Feb2026WiproRoboFramework\Selenium\Addtocart.robot">
+<test id="s1-t1" name="Varify Full AddToCart" line="9">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-02-19T13:29:10.295297" level="INFO">Opening browser 'chrome' to base url 'https://www.saucedemo.com/checkout-complete.html'.</msg>
+<arg>${URL}</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2026-02-19T13:29:10.294799" elapsed="0.952267"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2026-02-19T13:29:11.247798" elapsed="0.418050"/>
+</kw>
+<kw name="Wait Until Element Is Visible" owner="SeleniumLibrary">
+<arg>xpath://div[@class='login_wrapper-inner']</arg>
+<doc>Waits until the element ``locator`` is visible.</doc>
+<status status="PASS" start="2026-02-19T13:29:11.666510" elapsed="0.040320"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-19T13:29:11.707628" level="INFO">Typing text 'standard_user' into text field 'id:user-name'.</msg>
+<arg>id:user-name</arg>
+<arg>standard_user</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-19T13:29:11.707363" elapsed="0.188896"/>
+</kw>
+<kw name="Input Password" owner="SeleniumLibrary">
+<msg time="2026-02-19T13:29:11.897126" level="INFO">Typing password into text field 'id:password'.</msg>
+<msg time="2026-02-19T13:29:11.966199" level="INFO">Temporally setting log level to: NONE</msg>
+<arg>id:password</arg>
+<arg>secret_sauce</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-19T13:29:11.896789" elapsed="0.158088"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-19T13:29:12.055847" level="INFO">Clicking element 'id:login-button'.</msg>
+<arg>id:login-button</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-19T13:29:12.055475" elapsed="0.156403"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-19T13:29:12.213228" level="INFO">Clicking element 'id:add-to-cart-sauce-labs-backpack'.</msg>
+<arg>id:add-to-cart-sauce-labs-backpack</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-19T13:29:12.212709" elapsed="0.101982"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-19T13:29:12.315562" level="INFO">Clicking element 'id:add-to-cart-sauce-labs-fleece-jacket'.</msg>
+<arg>id:add-to-cart-sauce-labs-fleece-jacket</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-19T13:29:12.315221" elapsed="0.166776"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-19T13:29:12.482754" level="INFO">Clicking element 'id:shopping_cart_container'.</msg>
+<arg>id:shopping_cart_container</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-19T13:29:12.482440" elapsed="0.082764"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2026-02-19T13:29:12.565980" level="INFO">Clicking element 'id:checkout'.</msg>
+<arg>id:checkout</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2026-02-19T13:29:12.565746" elapsed="0.092195"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2026-02-19T13:29:12.659484" level="INFO">Typing text 'Shiv' into text field 'id:first-name'.</msg>
+<msg time="2026-02-19T13:29:12.829354" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="selenium-screenshot-17.png"&gt;&lt;img src="selenium-screenshot-17.png" width="800px"&gt;&lt;/a&gt;</msg>
+<msg time="2026-02-19T13:29:12.829567" level="FAIL">Element with locator 'id:first-name' not found.</msg>
+<arg>id:first-name</arg>
+<arg>Shiv</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="FAIL" start="2026-02-19T13:29:12.658881" elapsed="0.191288">Element with locator 'id:first-name' not found.</status>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<arg>id:last-name</arg>
+<arg>Ptl</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="NOT RUN" start="2026-02-19T13:29:12.850562" elapsed="0.000068"/>
+</kw>
+<kw name="Input Text" owner="SeleniumLibrary">
+<arg>id:postal-code</arg>
+<arg>234567</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="NOT RUN" start="2026-02-19T13:29:12.851051" elapsed="0.000079"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<arg>id:continue</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="NOT RUN" start="2026-02-19T13:29:12.851696" elapsed="0.000088"/>
+</kw>
+<kw name="Click Element" owner="SeleniumLibrary">
+<arg>id:finish</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="NOT RUN" start="2026-02-19T13:29:12.852161" elapsed="0.000037"/>
+</kw>
+<kw name="Page Should Contain" owner="SeleniumLibrary">
+<arg>Thank you for your order!</arg>
+<doc>Verifies that current page contains ``text``.</doc>
+<status status="NOT RUN" start="2026-02-19T13:29:12.852509" elapsed="0.000058"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="NOT RUN" start="2026-02-19T13:29:12.852818" elapsed="0.000028"/>
+</kw>
+<kw name="Sleep" owner="BuiltIn">
+<arg>5s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="NOT RUN" start="2026-02-19T13:29:12.853260" elapsed="0.000034"/>
+</kw>
+<status status="FAIL" start="2026-02-19T13:29:10.293154" elapsed="2.560474">Element with locator 'id:first-name' not found.</status>
+</test>
+<status status="FAIL" start="2026-02-19T13:29:09.955313" elapsed="2.899372"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Addtocart" id="s1" pass="0" fail="1" skip="0">Addtocart</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
