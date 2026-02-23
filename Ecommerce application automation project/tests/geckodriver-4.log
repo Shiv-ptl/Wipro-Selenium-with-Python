@@ -1,0 +1,60 @@
+1771678742792	geckodriver	INFO	Listening on 127.0.0.1:65194
+1771678745923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65195" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LENOVO\\AppData\\Local\\Temp\\rust_mozprofileEZIlxP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1771678746259	Marionette	INFO	Marionette enabled
+1771678746388	Marionette	INFO	Listening on port 61609
+WebDriver BiDi listening on ws://127.0.0.1:65195
+Read port: 61609
+1771678746562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 672 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 672: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 672 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 672 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 672 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 3049 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 3049 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval, line 3049: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 3049 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 3049 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 3049 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 3049 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ldrxsr5DVt0LJFwH7eyIm9-lfqGZQ9aUDb8H3SphxsA.js line 2 > eval line 672 > eval line 1 > eval line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://api.b2c.com/api/init-67837llrmed7abvew8my.js?adID=631702699&advertiserID=5481501&campaignID=31418751&creativeID=248932149&placementID=438298805&environment=j&siteid=9008513&country=ct=IN&st=&city=0&dma=0&zp=209868&bw=4&match=AMsySZYF3pPC7KqpUXblwfwJYu9O&site=N339201.4066079OMDPROGRAMMATICUA&landingpage=https://www.visitdubai.com/en/dubai-ready-for-a-surprise%3Futm_source%3Dprogrammatic%26utm_medium%3Ddisplay%26utm_campaign%3Dseasonalaonapac%26utm_term%3Dind-en_winterbanners%26utm_content%3Dconsideration_banner728x90_OPXInmarketAll%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D23467761836, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://api.b2c.com/api/init-67837llrmed7abvew8my.js?adID=631702714&advertiserID=5481501&campaignID=31418751&creativeID=248319529&placementID=438298820&environment=j&siteid=9008513&country=ct=IN&st=&city=0&dma=0&zp=209868&bw=4&match=AMsySZYF3pPC7KqpUXblwfwJYu9O&site=N339201.4066079OMDPROGRAMMATICUA&landingpage=https://www.visitdubai.com/en/dubai-ready-for-a-surprise%3Futm_source%3Dprogrammatic%26utm_medium%3Ddisplay%26utm_campaign%3Dseasonalaonapac%26utm_term%3Dind-en_winterbanners%26utm_content%3Dconsideration_banner300x250_OPXInmarketAll%26dclid%3D%25edclid!%26gad_source%3D7%26gad_campaignid%3D23467760849, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015, line 1: Script terminated by timeout at:
+104/T/<@https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015:1:11646
+t@https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015:1:11507
+
+1771678788858	Marionette	INFO	Stopped listening on port 61609
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
